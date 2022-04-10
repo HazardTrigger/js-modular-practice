@@ -1,3 +1,4 @@
+// 将变量挂在exports对象生并暴露
 exports.foo = function() {
     console.log('foo() module3')
 }

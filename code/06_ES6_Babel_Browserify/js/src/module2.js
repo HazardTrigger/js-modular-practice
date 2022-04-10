@@ -1,3 +1,4 @@
+// 合并export
 function fun() {
     console.log('fun() module2')
 }

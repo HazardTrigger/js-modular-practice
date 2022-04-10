@@ -1,5 +1,5 @@
 {
   "presets": [
-    "@babel/preset-env"
+    "@babel/preset-env" // 定义需要转换的代码版本，默认是es6
   ]
 }

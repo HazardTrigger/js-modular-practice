@@ -1,3 +1,4 @@
+// 单独export
 export function foo() {
     console.log('foo() function')
 }

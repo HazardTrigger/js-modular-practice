@@ -1,5 +1,5 @@
 "use strict";
-
+// 使用babel的cli进行es6代码转换到es5代码
 var _module = require("./module1.js");
 
 var _module2 = require("./module2.js");
